@@ -1,0 +1,18 @@
+current directory: /Users/nozakiayaka/projects/training_curriculum_rails7/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/nozakiayaka/.rbenv/versions/3.2.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/nozakiayaka/projects/training_curriculum_rails7/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240128-49465-9zchpw sitelibdir\=./.gem.20240128-49465-9zchpw clean
+
+current directory: /Users/nozakiayaka/projects/training_curriculum_rails7/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240128-49465-9zchpw sitelibdir\=./.gem.20240128-49465-9zchpw
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/nozakiayaka/projects/training_curriculum_rails7/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240128-49465-9zchpw sitelibdir\=./.gem.20240128-49465-9zchpw install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20240128-49465-9zchpw
+
+current directory: /Users/nozakiayaka/projects/training_curriculum_rails7/vendor/bundle/ruby/3.2.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20240128-49465-9zchpw sitelibdir\=./.gem.20240128-49465-9zchpw clean
